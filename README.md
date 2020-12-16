@@ -1,5 +1,5 @@
-# Image_Text_Matching_Bentchmark
-PyTorch code for Bentchmark of Image Text Matching that builds on the open sources for Further Exploration.  
+# Image_Text_Matching_Benchmark
+PyTorch code for Benchmark of Image Text Matching that builds on the open sources for Further Exploration.  
 We will release the codes that can be deployed on multi-GPU as soon as possible.  
 ## Code structure
 ### Generic representation extraction
@@ -16,5 +16,3 @@ Graph-based : Local alignments enhanced, Global alignments guided, etc.
 Attention-based: Local alignments filtration, Guidance alignments aggregation, etc.
 ### Loss function design  
 Birank loss, CMPL loss, Binary cross-entropy loss,  Angular loss, etc.
-
-
