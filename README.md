@@ -1,5 +1,5 @@
 # Image_Text_Matching_Bentchmark
-PyTorch code for Bentchmark of Image Text Matching for Further Exploration. It builds on the open sources of latest SOTAs.  
+PyTorch code for Bentchmark of Image Text Matching that builds on the open sources for Further Exploration.  
 We will release the codes that can be deployed on multi-GPU as soon as possible.  
 ## Code structure
 ### Generic representation extraction
