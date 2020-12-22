@@ -1,4 +1,4 @@
-# Image_Text_Matching_Benchmark
+# Cross-modal_Retrieval_Benchmark
 PyTorch code for Benchmark of Image Text Matching that builds on the open sources for Further Exploration.  
 We will release the codes that can be deployed on multi-GPU as soon as possible.  
 ## Code structure
