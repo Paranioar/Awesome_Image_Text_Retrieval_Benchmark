@@ -1,6 +1,6 @@
 # Cross-modal_Retrieval_Benchmark
-PyTorch code for Benchmark of Image Text Matching that builds on the open sources for Further Exploration.  
-We will release the codes that can be deployed on multi-GPU as soon as possible.  
+PyTorch implementation for Benchmark of Image-Text Matching for Further Exploration.  
+We will release the multi-GPU codes according to [Image-Text Matching Tutorial](https://github.com/Paranioar/Cross-modal_Retrieval_Tutorial).  
 ## Code structure
 ### Generic representation extraction
 For image, it has several options, e.g. commonly-used CNN, Transformer, various Graphs, Commonsense, etc.  
@@ -15,4 +15,4 @@ vector-based : Block-based sim, Symmetric-based sim, Asymmetric-based sim, etc.
 Graph-based : Local alignments enhanced, Global alignments guided, etc.  
 Attention-based: Local alignments filtration, Guidance alignments aggregation, etc.
 ### Loss function design  
-Birank loss, CMPL loss, Binary cross-entropy loss,  Angular loss, etc.
+Birank loss, CMPL loss, Binary cross-entropy loss, Angular loss, etc.
