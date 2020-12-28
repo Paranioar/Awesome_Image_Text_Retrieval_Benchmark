@@ -1,6 +1,6 @@
 # Cross-modal_Retrieval_Benchmark
-PyTorch implementation for Benchmark of Image-Text Matching for Further Exploration.  
-We will release the multi-GPU codes according to [Image-Text Matching Tutorial](https://github.com/Paranioar/Cross-modal_Retrieval_Tutorial).  
+PyTorch implementation for Benchmark of Image-Text Matching for Further Exploration.
+
 ## Code structure
 ### Generic representation extraction
 For image, it has several options, e.g. commonly-used CNN, Transformer, various Graphs, Commonsense, etc.  
