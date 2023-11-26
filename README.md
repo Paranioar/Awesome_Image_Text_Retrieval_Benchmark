@@ -20,7 +20,7 @@ Recurrent Attention, Transformer Attention, Bilinear Attention, etc.
 
 ### [Similarity Construction](https://github.com/Paranioar/Image_Text_Retrieval_Benchmark/tree/main/lib/modules/similarity.py)
 *Scalar Representation:* Inner-product Similarity, Order-embedding Similarity, etc.  
-*Vector Representation:* Block-based Similarity, Symmetric-based or Asymmetric-based Similarity, etc.  
+*Vector Representation:* Block Similarity, Symmetric or Asymmetric Similarity, etc.  
 *Graph-based Aggregation:* Local Alignments Enhancement, Global Alignments Guidance, etc.     
 *Attention-based Aggregation:* Local Alignments Filtration, Guidance Alignments Aggregation, etc.   
 
