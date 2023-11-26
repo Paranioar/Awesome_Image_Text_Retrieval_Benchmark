@@ -1,7 +1,8 @@
 # Image_Text_Retrieval_Benchmark
 PyTorch implementation for Module Collection of Image-Text Retrieval for Further Exploration.
 
-Importantly, the code (*completed in September 2022*) is not comprehensive and is not executable directly. It functions as a compilation of popular modules, designed to ease adaptation for other domains.
+Importantly, the code (*completed in September 2022*) is not comprehensive and is not executable directly.  
+It functions as a compilation of popular modules, designed to ease adaptation for other domains.
 
 ## Call for Contributors
 
@@ -19,7 +20,7 @@ Recurrent Attention, Transformer Attention, Bilinear Attention, etc.
 
 ### [Similarity Construction](https://github.com/Paranioar/Image_Text_Retrieval_Benchmark/tree/main/lib/modules/similarity.py)
 *Scalar Representation:* Inner-product Similarity, Order-embedding Similarity, etc.  
-*Vector Representation:* Block-based Similarity, Symmetric-based Similarity, Asymmetric-based Similarity, etc.  
+*Vector Representation:* Block-based Similarity, Symmetric-based or Asymmetric-based Similarity, etc.  
 *Graph-based Aggregation:* Local Alignments Enhancement, Global Alignments Guidance, etc.     
 *Attention-based Aggregation:* Local Alignments Filtration, Guidance Alignments Aggregation, etc.   
 
