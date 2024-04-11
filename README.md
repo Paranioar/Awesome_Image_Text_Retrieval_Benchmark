@@ -29,7 +29,7 @@ Birank Loss, CMPL Loss, Binary Cross-entropy Loss, Angular Loss, etc.
 
 ## Reference
 
-If this code is useful for your research, please cite the relative papers in [Awesome_Cross_Modal_Pretraining_Transfering](https://github.com/Paranioar/Awesome_Cross_Modal_Pretraining_Transfering/blob/main/conventional_method.md).
+If this code is useful for your research, please cite the relative papers in [Awesome_Matching_Pretraining_Transfering](https://github.com/Paranioar/Awesome_Matching_Pretraining_Transfering/blob/main/conventional_method.md).
 
 ## License
 
